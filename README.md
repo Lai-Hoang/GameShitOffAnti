@@ -3,7 +3,7 @@ Cái này chỉ cho bản quốc tế và đã fix 1 phần. Bởi vì nó đã 
 kẹp chung để dùng cho bất kì phần mềm hỗ trợ nào.
 <br>
 Nếu gặp bảng này khi dùng thì nó không sài được trên máy bạn :)
+<br>
 ![Ảnh chụp màn hình](https://imgur.com/rA4D1Fp.png)
 <br>
-# Hướng dẫn sử dụng 
 [video hướng dẫn](https://streamable.com/1y3604)
