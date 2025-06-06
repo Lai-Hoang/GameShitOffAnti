@@ -1,5 +1,7 @@
 Cái này chỉ cho bản quốc tế và đã fix 1 phần. Bởi vì nó đã đc công khai từ lâu.
 <br>
+Tải tại [đây.](https://github.com/Lai-Hoang/GameShitOffAnti/releases/download/hmm/wtfBypassLoVcl.zip)
+<br>
 kẹp chung để dùng cho bất kì phần mềm hỗ trợ nào.
 <br>
 Nếu gặp bảng này khi dùng thì nó không sài được trên máy bạn :)
