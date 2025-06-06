@@ -1,3 +1,4 @@
+# 06/06/2025 update ;)
 Cái này chỉ cho bản quốc tế và đã fix 1 phần. Bởi vì nó đã đc công khai từ lâu.
 <br>
 Tải tại [đây.](https://github.com/Lai-Hoang/GameShitOffAnti/releases/download/hmm/wtfBypassLoVcl.zip)
