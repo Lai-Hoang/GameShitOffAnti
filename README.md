@@ -4,8 +4,12 @@ Tải tại [đây.](https://github.com/Lai-Hoang/GameShitOffAnti/releases/downl
 <br>
 kẹp chung để dùng cho bất kì phần mềm hỗ trợ nào.
 <br>
-Nếu gặp bảng này khi dùng thì nó không sài được trên máy bạn :)
+[video hướng dẫn](https://streamable.com/1y3604)
+
+
+Nếu gặp bảng này khi dùng thì nó không sài được trên máy bạn :).
 <br>
 ![Ảnh chụp màn hình](https://i.ibb.co/k2JFtm7Z/erroeoe.png)
 <br>
-[video hướng dẫn](https://streamable.com/1y3604)
+(hiếm bị nếu Windows bạn éo dính virus hoặc sài Windows mod)
+<br>
