@@ -1,4 +1,4 @@
-# 06/06/2025 update ;)
+# 07/06/2025 update sửa lại 1 số thứ để load phần mềm hỗ trợ;)
 Cái này chỉ cho bản quốc tế.
 <br>
 ~~và đã fix 1 phần. Bởi vì nó đã đc công khai từ lâu.~~
