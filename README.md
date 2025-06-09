@@ -7,7 +7,7 @@ Tải tại [đây.](https://github.com/Lai-Hoang/GameShitOffAnti/releases/downl
 <br>
 kẹp chung để dùng cho bất kì phần mềm hỗ trợ nào.
 <br>
-[video hướng dẫn](https://streamable.com/1y3604)
+[video hướng dẫn](https://streamable.com/lyk4b5)
 <br>
 Vui lòng không mở thêm game có dùng cùng Anti với game. Chẳng hạn như ZZZ.
 
