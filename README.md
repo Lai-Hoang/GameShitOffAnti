@@ -1,11 +1,11 @@
-# 12/06/2025 update :)
+# 18/06/2025 update :)
 Cái này chỉ cho bản quốc tế.
 <br>
 ~~và đã fix 1 phần. Bởi vì nó đã đc công khai từ lâu.~~
 <br>
 Tải tại [đây.](https://github.com/Lai-Hoang/GameShitOffAnti/releases/download/asd/wtfBypassLoVcl.zip)
 <br>
-kẹp chung để dùng cho bất kì phần mềm hỗ trợ nào.
+kẹp chung để dùng cho bất kì phần mềm hỗ trợ nào. (trừ minty :D). vì tôi éo biết sửa :)
 <br>
 [video hướng dẫn](https://streamable.com/c5zu1k)
 <br>
