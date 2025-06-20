@@ -1,4 +1,4 @@
-# 18/06/2025 update :)
+# 20/06/2025 update :)
 Cái này chỉ cho bản quốc tế.
 <br>
 ~~và đã fix 1 phần. Bởi vì nó đã đc công khai từ lâu.~~
