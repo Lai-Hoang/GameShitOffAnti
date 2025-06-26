@@ -1,13 +1,15 @@
-# 20/06/2025 update :)
+# 26/06/2025 sửa lặt vặt :)
 Cái này chỉ cho bản quốc tế.
 <br>
 ~~và đã fix 1 phần. Bởi vì nó đã đc công khai từ lâu.~~
 <br>
 Tải tại [đây.](https://github.com/Lai-Hoang/GameShitOffAnti/releases/download/asd/wtfBypassLoVcl.zip)
 <br>
-kẹp chung để dùng cho bất kì phần mềm hỗ trợ nào. (trừ minty :D). vì tôi éo biết sửa :)
+kẹp chung để dùng cho bất kì phần mềm hỗ trợ nào. (trừ GS GC :D load 99% thì bị crash game).
 <br>
-[video hướng dẫn](https://streamable.com/c5zu1k)
+phần mềm hỗ trợ đã dùng thử được: m!nty,sh!ka,korep!.
+<br>
+[video hướng dẫn](https://streamable.com/c5zu1k) [video hướng dẫn 2](https://streamable.com/o7ewm6)
 <br>
 Vui lòng không mở thêm game có dùng cùng Anti với game. Chẳng hạn như ZZZ.
 <br>
