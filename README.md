@@ -13,6 +13,8 @@ phần mềm hỗ trợ đã dùng thử được: m!nty,sh!ka,korep!.
 <br>
 Vui lòng không mở thêm game có dùng cùng Anti với game. Chẳng hạn như ZZZ.
 <br>
+Và nếu cứ dùng khoảng 3 ngày, ta cần vào treo acc 1h không dùng (pyb4ss và phần mềm hỗ trợ). cần làm điều này tránh game xếp acc vào trạng thái dùng phần mềm và ban ;).
+<br>
 
 Nếu gặp bảng này khi dùng thì hãy thử lại vài lần.
 <br>
