@@ -5,9 +5,9 @@ Cái này chỉ cho bản quốc tế.
 <br>
 Tải tại [đây.](https://github.com/Lai-Hoang/GameShitOffAnti/releases/download/asd/wtfBypassLoVcl.zip)
 <br>
-kẹp chung để dùng cho bất kì phần mềm hỗ trợ nào. (trừ GS GC :D load 99% thì bị crash game).
+kẹp chung để dùng cho bất kì phần mềm hỗ trợ nào.
 <br>
-phần mềm hỗ trợ đã dùng thử được: m!nty,sh!ka,korep!.
+phần mềm hỗ trợ đã dùng thử được: m!nty, sh!ka, korep!, G4m3 S3ns3 GC.
 <br>
 [video hướng dẫn](https://streamable.com/c5zu1k) [video hướng dẫn 2](https://streamable.com/o7ewm6)
 <br>
