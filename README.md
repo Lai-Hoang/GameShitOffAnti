@@ -1,5 +1,6 @@
 # 14/07/2025:)
 update gì liên hệ laihoang để biết chi tiết :)
+<br>
 Cái này chỉ cho bản quốc tế.
 <br>
 ~~và đã fix 1 phần. Bởi vì nó đã đc công khai từ lâu.~~
