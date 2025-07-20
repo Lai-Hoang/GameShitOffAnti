@@ -15,5 +15,7 @@ phần mềm hỗ trợ đã dùng thử được: sh!ka, korep!, G4m3 S3ns3 GC.
 <br>
 Vui lòng không mở thêm game có dùng cùng Anti với game. Chẳng hạn như ZZZ.
 <br>
+Nếu test trên tài khoản mới thì cần phải treo 1h không dùng (pyb4ss và phần mềm hỗ trợ).
+<br>
 Và nếu cứ dùng khoảng 3 ngày, ta cần vào treo acc 1h không dùng (pyb4ss và phần mềm hỗ trợ). cần làm điều này tránh game xếp acc vào trạng thái dùng phần mềm và ban ;).
 
