@@ -11,7 +11,7 @@ kẹp chung để dùng cho bất kì phần mềm hỗ trợ nào.
 <br>
 phần mềm hỗ trợ đã dùng thử được: sh!ka, korep!, G4m3 S3ns3 GC.
 <br>
-[video hướng dẫn](https://streamable.com/3h9uvs)
+[video hướng dẫn](https://streamable.com/gyymsj)
 <br>
 Vui lòng không mở thêm game có dùng cùng Anti với game. Chẳng hạn như ZZZ.
 <br>
