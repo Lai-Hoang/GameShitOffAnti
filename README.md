@@ -1,11 +1,11 @@
-# 14/07/2025:)
+# 30/07/2025:)
 update gì liên hệ laihoang để biết chi tiết :)
 <br>
 Cái này chỉ cho bản quốc tế.
 <br>
 ~~và đã fix 1 phần. Bởi vì nó đã đc công khai từ lâu.~~
 <br>
-Tải tại [đây.](https://github.com/Lai-Hoang/GameShitOffAnti/releases/download/asd/wtfBypassLoVclv2.zip)
+Tải tại [đây.](https://github.com/Lai-Hoang/GameShitOffAnti/releases/download/asd/wtfBypassLoVcl_V2.zip)
 <br>
 kẹp chung để dùng cho bất kì phần mềm hỗ trợ nào.
 <br>
