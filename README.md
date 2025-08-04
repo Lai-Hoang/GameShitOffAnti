@@ -1,4 +1,4 @@
-# 30/07/2025:)
+# 04/08/2025:) sửa spaghetti code :))
 update gì liên hệ laihoang để biết chi tiết :)
 <br>
 Cái này chỉ cho bản quốc tế.
