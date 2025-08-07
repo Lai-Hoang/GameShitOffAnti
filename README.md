@@ -9,7 +9,8 @@ Tải tại [đây.](https://github.com/Lai-Hoang/GameShitOffAnti/releases/downl
 <br>
 kẹp chung để dùng cho bất kì phần mềm hỗ trợ nào.
 <br>
-phần mềm hỗ trợ đã dùng thử được: sh!ka, korep!, G4m3 S3ns3 GC.
+phần mềm hỗ trợ đã dùng thử được: sh!ka, korep!.
+hộ trợ mở sh!ka [hướng dẫn](https://streamable.com/0zo7or).
 <br>
 [video hướng dẫn](https://streamable.com/gyymsj)
 <br>
