@@ -10,7 +10,8 @@ Tải tại [đây.](https://github.com/Lai-Hoang/GameShitOffAnti/releases/downl
 kẹp chung để dùng cho bất kì phần mềm hỗ trợ nào.
 <br>
 phần mềm hỗ trợ đã dùng thử được: sh!ka, korep!.
-hộ trợ mở sh!ka [hướng dẫn](https://streamable.com/0zo7or)...
+<br>
+hỗ trợ mở sh!ka [hướng dẫn](https://streamable.com/0zo7or)...
 <br>
 [video hướng dẫn](https://streamable.com/gyymsj)
 <br>
