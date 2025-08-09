@@ -12,6 +12,7 @@ kẹp chung để dùng cho bất kì phần mềm hỗ trợ nào.
 phần mềm hỗ trợ đã dùng thử được: sh!ka, korep!.
 <br>
 hỗ trợ mở sh!ka [hướng dẫn](https://streamable.com/0zo7or)...
+Làm thế nào để load korep! [hướng dẫn](https://streamable.com/ru76h7)...
 <br>
 [video hướng dẫn](https://streamable.com/gyymsj)
 <br>
