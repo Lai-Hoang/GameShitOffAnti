@@ -22,4 +22,10 @@ Vui lòng không mở thêm game có dùng cùng Anti với game. Chẳng hạn 
 Nếu test trên tài khoản mới thì cần phải treo 1h không dùng (pyb4ss và phần mềm hỗ trợ).
 <br>
 Và nếu cứ dùng khoảng 3 ngày, ta cần vào treo acc 1h không dùng (pyb4ss và phần mềm hỗ trợ). cần làm điều này tránh game xếp acc vào trạng thái dùng phần mềm và ban ;).
+<br>
 
+Nếu máy đã dùng "đồ" trước đây bị ban vui lòng gỡ game và cài lại. thêm quét v!rus phần mềm, đề xuất phần mềm xem nó [ở đây](https://www.malwarebytes.com/). 
+<br>
+mở tích scan root kit và quét. ko cần dùng bản trả phí dùng free quét cũng đc.
+hướng dẫn:
+<img width="1889" height="718" alt="image" src="https://github.com/user-attachments/assets/6b984e7d-1178-4969-8b4b-c3a2f92cb572" />
