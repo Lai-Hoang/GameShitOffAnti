@@ -29,3 +29,8 @@ Nếu máy đã dùng "đồ" trước đây bị ban vui lòng gỡ game và c�
 mở tích scan root kit và quét. ko cần dùng bản trả phí dùng free quét cũng đc.
 hướng dẫn:
 <img width="1889" height="718" alt="image" src="https://github.com/user-attachments/assets/6b984e7d-1178-4969-8b4b-c3a2f92cb572" />
+
+## Khu vực ăn xin 💀💀💀 :)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/82c42a37-e5d5-4b52-bc1f-27348a734a8e" width="724" height="1459">
+</p>
