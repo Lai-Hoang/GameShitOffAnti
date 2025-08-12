@@ -1,8 +1,10 @@
-## 12/08/2025:) update
-# ban nữa thì chịu.
+# 12/08/2025:) update.
+## b4n nữa thì chịu .
 <br>
+
 Cái này chỉ cho bản quốc tế.
 <br>
+
 ~~và đã fix 1 phần. Bởi vì nó đã đc công khai từ lâu.~~
 <br>
 Tải tại [đây.](https://github.com/Lai-Hoang/GameShitOffAnti/releases/download/asd/wtfBypassLoVcl_V2.zip)
