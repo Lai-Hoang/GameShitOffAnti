@@ -1,4 +1,4 @@
-# 04/08/2025:) sửa spaghetti code :))
+# 12/08/2025:) tạm thời đóng nửa ngày :)
 update gì liên hệ laihoang để biết chi tiết :)
 <br>
 Cái này chỉ cho bản quốc tế.
