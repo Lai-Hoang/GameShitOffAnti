@@ -15,10 +15,14 @@ phần mềm hỗ trợ đã dùng thử được: sh!ka, korep!.
 <br>
 hỗ trợ mở sh!ka [hướng dẫn](https://streamable.com/0zo7or)...
 <br>
+
 Làm thế nào để load korep! [hướng dẫn](https://streamable.com/ru76h7)...
+<br>
+người dùng krp (free vs paid) cần làm [hướng dẫn](https://streamable.com/1a5n60). tải tool này [tại đây](https://github.com/ewwink/MD5-Hash-Changer/releases/download/1.2.0/MD5_Hash_Changer-V1.2.0.zip).
 <br>
 [video hướng dẫn](https://streamable.com/gyymsj)
 <br>
+
 Vui lòng không mở thêm game có dùng cùng Anti với game. Chẳng hạn như ZZZ.
 <br>
 Nếu test trên tài khoản mới thì cần phải treo 1h không dùng (pyb4ss và phần mềm hỗ trợ).
