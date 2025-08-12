@@ -1,5 +1,5 @@
-# 12/08/2025:) tạm thời đóng nửa ngày :)
-update gì liên hệ laihoang để biết chi tiết :)
+## 12/08/2025:) update
+# ban nữa thì chịu.
 <br>
 Cái này chỉ cho bản quốc tế.
 <br>
