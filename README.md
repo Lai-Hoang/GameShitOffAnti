@@ -1,4 +1,4 @@
-# 13/08/2025:) update.
+# 13/08/2025:) bye bye
 à delay ban thui exit đây :))
 <br>
 
