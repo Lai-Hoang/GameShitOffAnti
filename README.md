@@ -1,6 +1,5 @@
-# 12/08/2025:) update.
-## b4n nữa thì chịu .
-random ban ko biết nguyên nhân :).
+# 13/08/2025:) update.
+à delay ban thui exit đây :))
 <br>
 
 Cái này chỉ cho bản quốc tế.
