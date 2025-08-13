@@ -1,5 +1,6 @@
 # 12/08/2025:) update.
 ## b4n nữa thì chịu .
+random ban ko biết nguyên nhân :).
 <br>
 
 Cái này chỉ cho bản quốc tế.
