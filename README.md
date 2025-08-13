@@ -1,7 +1,7 @@
 # 13/08/2025:) bye bye
 à delay ban thui exit đây :))
 <br>
-
+<!--
 Cái này chỉ cho bản quốc tế.
 <br>
 
