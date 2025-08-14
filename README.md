@@ -4,7 +4,7 @@ Cái này chỉ cho bản quốc tế.
 
 và đã fix 1 phần. CÓ THỂ BỊ BAN THEO CÁCH CHƠI CỦA BẠN.
 <br>
-Tải tại [đây.](https://github.com/Lai-Hoang/GameShitOffAnti/releases/download/camon/wtfBypassLoVcl_V2.zip)
+Tải tại [đây.](https://github.com/Lai-Hoang/GameShitOffAnti/releases/tag/camon)
 <br>
 kẹp chung để dùng cho bất kì phần mềm hỗ trợ nào.
 <br>
